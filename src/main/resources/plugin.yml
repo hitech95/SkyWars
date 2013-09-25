@@ -1,0 +1,12 @@
+name: SkyWars
+version: ${project.version}.hitechDev
+main: it.kytech.skywar.SkyWar
+authors: [hitech95]
+description: Fully Automated SkyWar Plugin!
+
+commands:
+    skywar:
+        description: Survival Games Command
+        usage: /sw <command> <args>
+        aliases: [sw]
+
