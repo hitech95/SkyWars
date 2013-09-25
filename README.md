@@ -1,0 +1,4 @@
+SkyWars
+=======
+
+Simple SkyWars Plugin
