@@ -1,4 +1,4 @@
-SkyWars by Double0negative
+SkyWars by Hitech95 and Double0negative
 =================================
 SkyWars is a plugin that has the aim of creating a fully automated SkyWar style experience. The plugin was created to be simple to use, and to be easily setup on any type of server, no matter the size or type! SkyWars provides a way for your server to have a full fledged, fully automated SkyWars experience for any player. For more information on the aim of the plugin, watch popular youtuber NoahCraftFTW play SkyWars [HERE](http://www.youtube.com/watch?v=BT96wdT3JEU).
 
